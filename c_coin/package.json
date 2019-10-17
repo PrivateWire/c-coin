@@ -1,0 +1,17 @@
+{
+  "name": "chaudry-coin",
+  "version": "1.0.0",
+  "description": "dAPP Token Sale",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev":"lite-server"
+  },
+  "author": "sam chaudry",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
